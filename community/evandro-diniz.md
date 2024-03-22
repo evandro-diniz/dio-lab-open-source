@@ -1,15 +1,17 @@
 # Olá pessoal 👋
 
-### Meu nome é Evandro Diniz, sou bacharel em Ciência da Computação, Mestre em Biotecnologia com ênfase em Informática Aplicada à Saúde pela UFDPar, sou Professor no IFMA campus Araioses. Piauiense com muito amor. 
+Meu nome é Evandro Diniz, sou bacharel em Ciência da Computação, Mestre em Biotecnologia com ênfase em Informática Aplicada à Saúde pela UFDPar, sou Professor no IFMA campus Araioses. Piauiense com muito amor. 
 
 ## Contatos:
 
 <div>
-<a href="[https://www.youtube.com/seu-canal-youtube-aqui](https://www.youtube.com/@evandro.devdiniz)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="[https://instagram.com/seu-usuário-instagram-aqui](https://www.instagram.com/_evandro_diniz/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "evandro.fran27@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/evandro-diniz-143556142/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.youtube.com/@evandro.devdiniz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/_evandro_diniz/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:evandro.fran27@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/evandro-diniz-143556142/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+## Github
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
